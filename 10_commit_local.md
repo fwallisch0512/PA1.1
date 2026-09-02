@@ -6,8 +6,7 @@ little change
 
 Now let's make an edit locally. The benefit from working locally is that you can use other software and that you can edit multiple files together in a single commit. Our first edit will be some text here:
 
-% ADD SOME TEXT HERE
-hey this is the new text
+% I add text
 
 Open the directory of your local repository (from VS code itself or click 'Open in Visual Studio Code in GitHub Desktop) to edit this file. Make sure to open the full directory, not just this single file!
 
