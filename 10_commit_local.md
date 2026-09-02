@@ -1,7 +1,7 @@
 # Make commit locally
 
 In this exercise you'll work on making changes to a git repository locally and pushing those to GitHub.
-
+little change
 ## Task 1 Edit files
 
 Now let's make an edit locally. The benefit from working locally is that you can use other software and that you can edit multiple files together in a single commit. Our first edit will be some text here:
